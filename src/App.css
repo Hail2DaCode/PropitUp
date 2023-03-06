@@ -1,7 +1,17 @@
 .App {
+  /* text-align: center; */
+  display: flex;
+  flex-direction: column;
   text-align: center;
 }
-
+h1 {
+  color: rgb(72, 8, 133);
+  font-size: 40pt;
+}
+p {
+  color: rgb(32, 113, 194);
+  font-size: 24pt;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
