@@ -33,6 +33,11 @@ function App() {
       lastName="Baratheon" 
       age={43} 
       hairColor = "none"/>
+      <Person 
+      firstName = "Danaerys" 
+      lastName="Targaryen" 
+      age={17} 
+      hairColor = "silver"/>
     </div>
   );
 }
